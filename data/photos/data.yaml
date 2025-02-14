@@ -1,0 +1,5 @@
+train: ../data/photos/train
+val: ../data/photos/val
+
+nc: 2
+names: ['Accident', 'Non Accident']
